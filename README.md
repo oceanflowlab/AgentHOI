@@ -1,12 +1,9 @@
-# AgentHOI
+# [ECCV2026] AgentHOI
 
-AgentHOI: Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild
+This repository is the official PyTorch implementation of the paper "AgentHOI: Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild".
 
 AgentHOI is a training-free, agentic framework for human-object interaction (HOI) detection in the wild. It uses multimodal large language models for interaction reasoning and GroundingDINO for human-object grounding.
 
-## News
-
-- AgentHOI has been accepted by ECCV 2026.
 
 ## Repository Layout
 
@@ -82,6 +79,26 @@ We provide the released model predictions used for evaluation:
 hico_pipe/output/4o_logit/4o_box.json
 swig_pipe/output/swig/4o_box.json
 ```
+
+## Results
+
+### HICO-DET
+
+| Setting |  Unseen Split mAP |
+| --- | ---: |
+| Unseen Verb (UV) | 30.12 |
+| Unseen Object (UO) | 33.97 |
+| Rare First (RF) | 39.16 |
+| Non-rare First (NF) | 28.47 |
+
+### SWIG-HOI
+
+| Split | mAP |
+| --- | ---: |
+| Zero-shot | 11.94 |
+| Rare | 13.36 |
+| Non-rare | 15.16 |
+| Full | 13.43 |
 
 ## Run on HICO-DET
 
