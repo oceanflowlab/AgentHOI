@@ -1,0 +1,26 @@
+You are now professional image analyst. I will provide an image with human-object pairs (HOPs) and a list of possible interaction classes for each HOP.
+
+You need to understand the image,locate the human and object via each HOP's HD and OD, in order to supplement the most suitable IC for each HOP.
+
+HOP Format:
+-OC:Object category
+-IC:The interaction class between the human and the object
+-HD:Human description
+-OD:Object description
+
+You must meet the following criteria:
+-Follow the example format exactly and no explanation
+-IC must be chosen from the provided IC list of the corresponding OC.
+-Separate the results of different HOPs with ';', as in the example's Output.
+-You must fully understand the content of the scene, pay special attention to the human body movements, according to the human body movements to supplement the IC.
+-Generally the IC of all HOPs in each image are the same.
+-You should step by step to analysis.
+
+Example:
+-Input:
+    Image 1
+    HOP:{OC:needle;IC: ;HD:person in dark helmet;OD:white needle}{IC list:tattooing,stitching, pricking...}
+    HOP:{OC:person;IC: ;HD:person in dark helmet;OD:Brown-haired woman}{IC list:tattooing,giving,kissing...}
+
+-Your Output:
+   tattooing;tattooing

@@ -1,6 +1,111 @@
 # AgentHOI
+
 AgentHOI: Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild
 
-AgentHOI is a training-free, agentic framework for human-object interaction (HOI) detection in the wild. Instead of learning task-specific interaction classifiers from annotated HOI datasets, AgentHOI leverages multimodal large language models and vision foundation models to perform open-ended interaction reasoning and precise human-object grounding.
+AgentHOI is a training-free, agentic framework for human-object interaction (HOI) detection in the wild. It uses multimodal large language models for interaction reasoning and GroundingDINO for human-object grounding.
 
-📌 Code and models are coming soon.
+## News
+
+- AgentHOI has been accepted by ECCV 2026.
+
+## Repository Layout
+
+```text
+.
+├── hico_pipe/          # HICO-DET AgentHOI pipeline
+├── swig_pipe/          # SWIG-HOI AgentHOI pipeline
+├── datasets/           # HICO-DET and SWIG-HOI evaluation code
+├── utils/              # Post-processing utilities
+├── GroundingDINO/      # GroundingDINO source used by the box grounding stage
+├── data/
+│   ├── hico/           # HICO-DET test annotations
+│   └── swig/           # SWIG-HOI test annotations
+├── hoi_metirc.py       # HICO-DET evaluation entry
+└── swig_metirc.py      # SWIG-HOI evaluation entry
+```
+
+## Installation
+
+Create a Python environment, then install the project dependencies and GroundingDINO.
+
+```bash
+pip install -r requirements.txt
+pip install -e GroundingDINO
+```
+
+Download the GroundingDINO Swin-B checkpoint and place it at:
+
+```text
+GroundingDINO/weights/groundingdino_swinb_cogcoor.pth
+```
+
+If your environment cannot download `bert-base-uncased` from Hugging Face at runtime, download it locally and set:
+
+```bash
+export BERT_BASE_UNCASED_PATH=/path/to/bert-base-uncased
+```
+
+## Data Preparation
+
+The repository includes the HICO-DET and SWIG-HOI test annotation files used by the evaluation scripts. Dataset images are not included.
+
+Place images at the default paths, or pass custom paths with environment variables:
+
+```text
+data/hico_20160224_det/images/test2015/
+data/swig/images/
+```
+
+```bash
+export HICO_IMAGE_DIR=/path/to/hico_20160224_det/images/test2015
+export SWIG_IMAGE_DIR=/path/to/swig/images
+```
+
+## API Configuration
+
+The pipeline reads OpenAI-compatible API settings from environment variables:
+
+```bash
+export OPENAI_API_KEY=your_api_key
+export OPENAI_API_BASE_URL=https://api.openai.com/v1
+export AGENTHOI_MODEL=gpt-4o-2024-11-20
+export AGENTHOI_MODEL_NAME=4o
+```
+
+For OpenAI-compatible local or third-party endpoints, set `OPENAI_API_BASE_URL` and `AGENTHOI_MODEL` accordingly.
+
+## Run on HICO-DET
+
+```bash
+bash hico_pipe/pipe.sh
+python hico_pipe/outbox.py
+python hoi_metirc.py --dataset_file hico --input_file hico_pipe/output/4o/4o_box.json
+```
+
+To use another output directory:
+
+```bash
+export HICO_OUTPUT_DIR=hico_pipe/output/my_run
+python hoi_metirc.py --dataset_file hico --input_file hico_pipe/output/my_run/4o_box.json
+```
+
+## Run on SWIG-HOI
+
+```bash
+bash swig_pipe/pipe.sh
+python swig_pipe/outbox.py
+python swig_metirc.py --dataset_file swig --input_file swig_pipe/output/4o/4o_box.json
+```
+
+To use another output directory:
+
+```bash
+export SWIG_OUTPUT_DIR=swig_pipe/output/my_run
+python swig_metirc.py --dataset_file swig --input_file swig_pipe/output/my_run/4o_box.json
+```
+
+## Notes
+
+- `hico_pipe/output/`, `swig_pipe/output/`, model checkpoints, dataset images, local BERT weights, caches, and compiled files are ignored by git.
+- The pipeline scripts intentionally call the LLM stages multiple times in `pipe.sh` to retry failed or incomplete items.
+- The file names `hoi_metirc.py` and `swig_metirc.py` are kept for compatibility with the original code release.

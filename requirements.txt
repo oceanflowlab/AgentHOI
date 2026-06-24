@@ -1,0 +1,13 @@
+fiftyone
+gradio
+huggingface_hub
+ipdb
+openai
+pandas
+Pillow
+PyYAML
+Requests
+setuptools
+termcolor
+tqdm
+typer

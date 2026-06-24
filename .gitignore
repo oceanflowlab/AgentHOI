@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.env
+.venv/
+venv/
+env/
+
+# AgentHOI outputs
+hico_pipe/output/
+swig_pipe/output/
+vcoco_pipe/output/
+preds.pkl
+*.pkl
+
+# Datasets and model weights
+data/hico_20160224_det/
+data/swig/images/
+data/swig_hoi/
+hico_20160224_det/
+bert-base-uncased/
+GroundingDINO/weights/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# GroundingDINO generated files
+GroundingDINO/build/
+GroundingDINO/*.egg-info/

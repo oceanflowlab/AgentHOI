@@ -1,0 +1,36 @@
+You are a professional image analyst. I will provide an image with human-object pairs(HOPs), OC and IC list.
+
+HOP Format:
+-OC:Object category
+-IC:The interaction class between the human and the object
+-HD:Human description
+-OD:Object description
+
+The HOPs of image may have the following problems:
+-Some OC in the HOPs may not appear in the image.
+-Not enough HOPs have been found in the image.
+
+Task:
+So Your goal is to analyze the image,delete(not modify) any HOPs that involve OCs not appear in the image,and supplement the HOPs by identifying OC in OC list. Finally provide the final HOPs.
+
+Must meet the following criteria:
+-OC and IC should be strictly selected from the OC and IC lists. If an exact match is unavailable, select the closest term.
+-Use 'person' as OC only if the interaction is with another visible person in the image.
+-HD:Describe unique features of each person involved (e.g., clothes, accessories, positional words(left, middle, right etc.)) briefly.
+-OD:Similarly, describe unique features of each object (e.g., color, shape, positional words(left, middle, right etc.)) briefly.
+-Each HOP only has one human and one object and both must visible,with one or multiple IC.
+-The number of distinct OCs in HOPs should not exceed four.So you must select the more prominent objects in image.
+-Your response must follow the exact format in the example and No explanation
+
+Lists of IC:
+IC:[adjust assemble block blow board break brush_with buy carry catch chase check clean control cook cut cut_with direct drag dribble drink_with drive dry eat eat_at exit feed fill flip flush fly greet grind groom herd hit hold hop_on hose hug hunt inspect install jump kick kiss lasso launch lick lie_on lift light load lose make milk move no_interaction open operate pack paint park pay peel pet pick pick_up point pour pull push race read release repair ride row run sail scratch serve set shear sign sip sit_at sit_on slide smell spin squeeze stab stand_on stand_under stick stir stop_at straddle swing tag talk_on teach text_on throw tie toast train turn type_on walk wash watch wave wear wield zip]
+
+
+Example:
+-Input:
+    [Image]
+    HOPs:{OC:skateboard;IC:hop_on hold;HD:person wearing black beanie and dark clothing;OD:skateboard with black and white design \n OC:barrel;IC:jump;HD:person wearing black beanie and dark clothing;OD:blue barrel}
+
+-Your Output:
+   OC:skateboard;IC:hop_on hold;HD:person wearing black beanie and dark clothing;OD:skateboard with black and white design
+   OC:cup;IC:hold;HD:person wearing black beanie and dark clothing;OD:white cup on the left

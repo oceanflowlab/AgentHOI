@@ -1,0 +1,2349 @@
+adjust	apple
+adjust	backpack
+adjust	baseball bat
+adjust	baseball glove
+adjust	bed
+adjust	bench
+adjust	bicycle
+adjust	boat
+adjust	book
+adjust	bottle
+adjust	bowl
+adjust	car
+adjust	carrot
+adjust	cat
+adjust	cell phone
+adjust	chair
+adjust	clock
+adjust	couch
+adjust	cup
+adjust	dining table
+adjust	dog
+adjust	fork
+adjust	frisbee
+adjust	hair drier
+adjust	handbag
+adjust	hot dog
+adjust	keyboard
+adjust	kite
+adjust	knife
+adjust	laptop
+adjust	microwave
+adjust	motorcycle
+adjust	mouse
+adjust	orange
+adjust	oven
+adjust	parking meter
+adjust	pizza
+adjust	potted plant
+adjust	refrigerator
+adjust	remote
+adjust	sandwich
+adjust	scissors
+adjust	skateboard
+adjust	spoon
+adjust	sports ball
+adjust	suitcase
+adjust	surfboard
+adjust	teddy bear
+adjust	tennis racket
+adjust	toaster
+adjust	toilet
+adjust	toothbrush
+adjust	truck
+adjust	tv
+adjust	umbrella
+adjust	vase
+adjust	wine glass
+assemble	backpack
+assemble	bed
+assemble	bench
+assemble	bicycle
+assemble	boat
+assemble	chair
+assemble	clock
+assemble	couch
+assemble	dining table
+assemble	hair drier
+assemble	handbag
+assemble	keyboard
+assemble	microwave
+assemble	motorcycle
+assemble	oven
+assemble	refrigerator
+assemble	remote
+assemble	sandwich
+assemble	suitcase
+assemble	teddy bear
+assemble	toaster
+assemble	toilet
+assemble	truck
+assemble	tv
+block	apple
+block	backpack
+block	banana
+block	baseball bat
+block	baseball glove
+block	bench
+block	bicycle
+block	bird
+block	boat
+block	book
+block	bottle
+block	bowl
+block	bus
+block	car
+block	cat
+block	cell phone
+block	chair
+block	couch
+block	cow
+block	cup
+block	dining table
+block	dog
+block	fork
+block	handbag
+block	horse
+block	keyboard
+block	knife
+block	laptop
+block	motorcycle
+block	mouse
+block	parking meter
+block	person
+block	potted plant
+block	remote
+block	scissors
+block	sheep
+block	skateboard
+block	skis
+block	spoon
+block	suitcase
+block	surfboard
+block	teddy bear
+block	tennis racket
+block	truck
+block	tv
+block	umbrella
+block	vase
+block	wine glass
+blow	apple
+blow	banana
+blow	boat
+blow	book
+blow	bottle
+blow	bowl
+blow	cup
+blow	dog
+blow	donut
+blow	frisbee
+blow	kite
+blow	potted plant
+blow	spoon
+blow	sports ball
+blow	teddy bear
+blow	vase
+board	bed
+board	bicycle
+board	cat
+board	dog
+board	horse
+board	motorcycle
+board	skateboard
+board	snowboard
+board	teddy bear
+board	truck
+break	apple
+break	backpack
+break	banana
+break	baseball glove
+break	bed
+break	bench
+break	bicycle
+break	boat
+break	book
+break	bottle
+break	bowl
+break	broccoli
+break	cake
+break	car
+break	carrot
+break	cell phone
+break	chair
+break	clock
+break	couch
+break	cup
+break	dining table
+break	donut
+break	fork
+break	frisbee
+break	hair drier
+break	handbag
+break	hot dog
+break	keyboard
+break	kite
+break	knife
+break	laptop
+break	microwave
+break	motorcycle
+break	mouse
+break	orange
+break	oven
+break	parking meter
+break	pizza
+break	potted plant
+break	refrigerator
+break	remote
+break	sandwich
+break	scissors
+break	skateboard
+break	skis
+break	snowboard
+break	spoon
+break	sports ball
+break	suitcase
+break	surfboard
+break	teddy bear
+break	tennis racket
+break	tie
+break	toaster
+break	toilet
+break	toothbrush
+break	truck
+break	tv
+break	umbrella
+break	vase
+break	wine glass
+brush_with	cat
+brush_with	teddy bear
+buy	backpack
+buy	baseball bat
+buy	baseball glove
+buy	bed
+buy	bicycle
+buy	boat
+buy	book
+buy	bottle
+buy	bowl
+buy	broccoli
+buy	cake
+buy	car
+buy	carrot
+buy	cat
+buy	cell phone
+buy	chair
+buy	clock
+buy	couch
+buy	cup
+buy	dining table
+buy	dog
+buy	fork
+buy	frisbee
+buy	hair drier
+buy	handbag
+buy	horse
+buy	hot dog
+buy	keyboard
+buy	kite
+buy	knife
+buy	laptop
+buy	microwave
+buy	motorcycle
+buy	mouse
+buy	oven
+buy	potted plant
+buy	refrigerator
+buy	remote
+buy	sandwich
+buy	scissors
+buy	sheep
+buy	skateboard
+buy	skis
+buy	snowboard
+buy	spoon
+buy	sports ball
+buy	suitcase
+buy	surfboard
+buy	teddy bear
+buy	tennis racket
+buy	tie
+buy	toaster
+buy	toothbrush
+buy	truck
+buy	tv
+buy	umbrella
+buy	vase
+buy	wine glass
+carry	apple
+carry	baseball glove
+carry	bird
+carry	boat
+carry	bowl
+carry	broccoli
+carry	cat
+carry	clock
+carry	cow
+carry	fork
+carry	frisbee
+carry	hair drier
+carry	horse
+carry	knife
+carry	laptop
+carry	microwave
+carry	motorcycle
+carry	mouse
+carry	orange
+carry	remote
+carry	scissors
+carry	spoon
+carry	toaster
+carry	toothbrush
+carry	tv
+carry	vase
+carry	wine glass
+catch	apple
+catch	backpack
+catch	bird
+catch	book
+catch	bottle
+catch	bowl
+catch	broccoli
+catch	bus
+catch	carrot
+catch	cat
+catch	cell phone
+catch	cow
+catch	cup
+catch	dog
+catch	donut
+catch	hot dog
+catch	kite
+catch	mouse
+catch	orange
+catch	person
+catch	pizza
+catch	remote
+catch	skateboard
+catch	spoon
+catch	suitcase
+catch	teddy bear
+catch	train
+catch	vase
+chase	apple
+chase	banana
+chase	bear
+chase	bicycle
+chase	boat
+chase	bottle
+chase	bowl
+chase	bus
+chase	car
+chase	carrot
+chase	cell phone
+chase	cow
+chase	donut
+chase	frisbee
+chase	handbag
+chase	horse
+chase	hot dog
+chase	kite
+chase	motorcycle
+chase	mouse
+chase	person
+chase	remote
+chase	sheep
+chase	skateboard
+chase	sports ball
+chase	suitcase
+chase	teddy bear
+chase	truck
+chase	zebra
+check	apple
+check	backpack
+check	banana
+check	baseball bat
+check	baseball glove
+check	bed
+check	bench
+check	bicycle
+check	bird
+check	boat
+check	book
+check	bottle
+check	bowl
+check	broccoli
+check	bus
+check	cake
+check	car
+check	carrot
+check	cat
+check	cell phone
+check	chair
+check	couch
+check	cow
+check	cup
+check	dining table
+check	dog
+check	donut
+check	fork
+check	frisbee
+check	hair drier
+check	handbag
+check	horse
+check	hot dog
+check	keyboard
+check	kite
+check	knife
+check	laptop
+check	microwave
+check	motorcycle
+check	mouse
+check	orange
+check	oven
+check	person
+check	pizza
+check	potted plant
+check	refrigerator
+check	remote
+check	sandwich
+check	scissors
+check	sheep
+check	sink
+check	skateboard
+check	skis
+check	snowboard
+check	spoon
+check	sports ball
+check	stop sign
+check	suitcase
+check	teddy bear
+check	tennis racket
+check	tie
+check	toaster
+check	toilet
+check	toothbrush
+check	traffic light
+check	train
+check	truck
+check	tv
+check	umbrella
+check	vase
+check	wine glass
+clean	apple
+clean	backpack
+clean	baseball bat
+clean	baseball glove
+clean	bench
+clean	bicycle
+clean	boat
+clean	bottle
+clean	bowl
+clean	broccoli
+clean	bus
+clean	car
+clean	carrot
+clean	cell phone
+clean	chair
+clean	couch
+clean	cup
+clean	dog
+clean	fork
+clean	frisbee
+clean	hair drier
+clean	handbag
+clean	horse
+clean	knife
+clean	laptop
+clean	motorcycle
+clean	mouse
+clean	potted plant
+clean	remote
+clean	skateboard
+clean	skis
+clean	snowboard
+clean	spoon
+clean	sports ball
+clean	suitcase
+clean	surfboard
+clean	teddy bear
+clean	tennis racket
+clean	toaster
+clean	toothbrush
+clean	truck
+clean	tv
+clean	umbrella
+clean	vase
+clean	wine glass
+control	apple
+control	backpack
+control	baseball bat
+control	bicycle
+control	boat
+control	bottle
+control	bowl
+control	bus
+control	car
+control	cat
+control	cell phone
+control	chair
+control	clock
+control	cup
+control	dog
+control	elephant
+control	frisbee
+control	hair drier
+control	horse
+control	keyboard
+control	kite
+control	laptop
+control	microwave
+control	motorcycle
+control	oven
+control	parking meter
+control	person
+control	potted plant
+control	refrigerator
+control	remote
+control	scissors
+control	sheep
+control	skateboard
+control	skis
+control	snowboard
+control	spoon
+control	sports ball
+control	suitcase
+control	teddy bear
+control	tennis racket
+control	toaster
+control	traffic light
+control	truck
+control	umbrella
+control	vase
+cook	apple
+cook	banana
+cook	bird
+cook	bowl
+cook	broccoli
+cook	cake
+cook	donut
+cut	donut
+cut	handbag
+cut	teddy bear
+cut	vase
+cut_with	apple
+cut_with	banana
+cut_with	broccoli
+cut_with	cake
+cut_with	carrot
+cut_with	donut
+cut_with	hot dog
+cut_with	orange
+cut_with	pizza
+cut_with	sandwich
+cut_with	teddy bear
+cut_with	vase
+direct	backpack
+direct	bicycle
+direct	bird
+direct	boat
+direct	book
+direct	bottle
+direct	bowl
+direct	cat
+direct	cell phone
+direct	chair
+direct	cup
+direct	dog
+direct	frisbee
+direct	hair drier
+direct	handbag
+direct	horse
+direct	keyboard
+direct	kite
+direct	knife
+direct	laptop
+direct	mouse
+direct	person
+direct	potted plant
+direct	remote
+direct	sheep
+direct	spoon
+direct	sports ball
+direct	suitcase
+direct	teddy bear
+direct	tennis racket
+direct	train
+direct	tv
+direct	vase
+direct	wine glass
+drag	apple
+drag	backpack
+drag	banana
+drag	baseball bat
+drag	baseball glove
+drag	bed
+drag	bench
+drag	bicycle
+drag	boat
+drag	book
+drag	bottle
+drag	bowl
+drag	broccoli
+drag	cake
+drag	carrot
+drag	cat
+drag	cell phone
+drag	chair
+drag	couch
+drag	cup
+drag	dog
+drag	donut
+drag	fork
+drag	frisbee
+drag	hair drier
+drag	handbag
+drag	horse
+drag	hot dog
+drag	keyboard
+drag	knife
+drag	laptop
+drag	motorcycle
+drag	mouse
+drag	orange
+drag	person
+drag	pizza
+drag	potted plant
+drag	remote
+drag	sandwich
+drag	scissors
+drag	skateboard
+drag	skis
+drag	snowboard
+drag	spoon
+drag	sports ball
+drag	teddy bear
+drag	tennis racket
+drag	toaster
+drag	toothbrush
+drag	truck
+drag	tv
+drag	umbrella
+drag	vase
+drink_with	wine glass
+drive	motorcycle
+drive	person
+dry	apple
+dry	backpack
+dry	banana
+dry	baseball bat
+dry	baseball glove
+dry	bicycle
+dry	boat
+dry	bottle
+dry	bowl
+dry	cake
+dry	car
+dry	carrot
+dry	cell phone
+dry	chair
+dry	cup
+dry	dining table
+dry	fork
+dry	frisbee
+dry	handbag
+dry	hot dog
+dry	keyboard
+dry	knife
+dry	motorcycle
+dry	pizza
+dry	remote
+dry	sandwich
+dry	scissors
+dry	skateboard
+dry	skis
+dry	snowboard
+dry	spoon
+dry	sports ball
+dry	surfboard
+dry	teddy bear
+dry	tennis racket
+dry	toothbrush
+dry	umbrella
+dry	vase
+eat	bowl
+eat_at	carrot
+exit	bed
+exit	bench
+exit	bicycle
+exit	car
+exit	cat
+exit	chair
+exit	couch
+exit	dog
+exit	microwave
+exit	motorcycle
+exit	oven
+exit	person
+exit	refrigerator
+exit	skateboard
+exit	teddy bear
+exit	toilet
+exit	truck
+exit	tv
+feed	banana
+feed	bottle
+feed	broccoli
+feed	carrot
+feed	donut
+feed	hot dog
+feed	mouse
+feed	person
+feed	sandwich
+fill	backpack
+fill	boat
+fill	bottle
+fill	bowl
+fill	handbag
+fill	potted plant
+fill	suitcase
+fill	teddy bear
+fill	truck
+fill	vase
+flip	apple
+flip	backpack
+flip	banana
+flip	baseball bat
+flip	book
+flip	bottle
+flip	bowl
+flip	cake
+flip	carrot
+flip	cell phone
+flip	chair
+flip	clock
+flip	cup
+flip	donut
+flip	fork
+flip	frisbee
+flip	handbag
+flip	hot dog
+flip	keyboard
+flip	laptop
+flip	pizza
+flip	remote
+flip	sandwich
+flip	spoon
+flip	sports ball
+flip	suitcase
+flip	teddy bear
+flip	tennis racket
+flip	toaster
+flip	tv
+flip	umbrella
+flip	vase
+flip	wine glass
+fly	bird
+fly	frisbee
+greet	bird
+greet	cat
+greet	dog
+greet	horse
+greet	teddy bear
+grind	apple
+grind	broccoli
+grind	carrot
+groom	bear
+groom	bird
+groom	car
+groom	cat
+groom	cow
+groom	elephant
+groom	motorcycle
+groom	mouse
+groom	person
+groom	sheep
+groom	teddy bear
+groom	zebra
+herd	dog
+herd	elephant
+herd	horse
+herd	zebra
+hit	apple
+hit	backpack
+hit	banana
+hit	bed
+hit	bench
+hit	bicycle
+hit	bird
+hit	boat
+hit	book
+hit	bottle
+hit	bowl
+hit	broccoli
+hit	bus
+hit	cake
+hit	car
+hit	carrot
+hit	cat
+hit	cell phone
+hit	chair
+hit	clock
+hit	couch
+hit	cup
+hit	dining table
+hit	dog
+hit	donut
+hit	fork
+hit	frisbee
+hit	handbag
+hit	horse
+hit	hot dog
+hit	keyboard
+hit	kite
+hit	knife
+hit	laptop
+hit	motorcycle
+hit	mouse
+hit	orange
+hit	person
+hit	pizza
+hit	refrigerator
+hit	remote
+hit	sandwich
+hit	sheep
+hit	skateboard
+hit	skis
+hit	snowboard
+hit	spoon
+hit	suitcase
+hit	surfboard
+hit	teddy bear
+hit	tie
+hit	toaster
+hit	truck
+hit	tv
+hit	umbrella
+hit	vase
+hit	wine glass
+hold	tv
+hop_on	bed
+hop_on	bus
+hop_on	teddy bear
+hop_on	train
+hose	bench
+hose	bicycle
+hose	bottle
+hose	chair
+hose	fire hydrant
+hose	motorcycle
+hose	truck
+hose	vase
+hug	bear
+hunt	bird
+hunt	cow
+hunt	elephant
+hunt	giraffe
+hunt	person
+hunt	sheep
+hunt	zebra
+inspect	baseball bat
+inspect	baseball glove
+inspect	bear
+inspect	bed
+inspect	bird
+inspect	book
+inspect	bowl
+inspect	broccoli
+inspect	cake
+inspect	carrot
+inspect	cat
+inspect	cell phone
+inspect	chair
+inspect	clock
+inspect	couch
+inspect	cow
+inspect	dining table
+inspect	donut
+inspect	elephant
+inspect	fork
+inspect	frisbee
+inspect	giraffe
+inspect	hair drier
+inspect	horse
+inspect	hot dog
+inspect	keyboard
+inspect	knife
+inspect	laptop
+inspect	microwave
+inspect	mouse
+inspect	parking meter
+inspect	person
+inspect	pizza
+inspect	potted plant
+inspect	refrigerator
+inspect	remote
+inspect	sandwich
+inspect	scissors
+inspect	sheep
+inspect	sink
+inspect	skateboard
+inspect	snowboard
+inspect	spoon
+inspect	stop sign
+inspect	suitcase
+inspect	teddy bear
+inspect	toaster
+inspect	toilet
+inspect	toothbrush
+inspect	traffic light
+inspect	train
+inspect	tv
+inspect	umbrella
+inspect	vase
+inspect	wine glass
+install	clock
+install	hair drier
+install	keyboard
+install	microwave
+install	oven
+install	remote
+install	sink
+install	toaster
+install	tv
+jump	bear
+jump	bed
+jump	bench
+jump	cat
+jump	chair
+jump	couch
+jump	dog
+jump	frisbee
+jump	person
+jump	remote
+jump	sheep
+jump	sports ball
+jump	suitcase
+jump	teddy bear
+kick	apple
+kick	backpack
+kick	banana
+kick	baseball glove
+kick	bench
+kick	book
+kick	bottle
+kick	bowl
+kick	cell phone
+kick	chair
+kick	couch
+kick	cup
+kick	dog
+kick	frisbee
+kick	handbag
+kick	kite
+kick	orange
+kick	person
+kick	pizza
+kick	remote
+kick	sheep
+kick	skateboard
+kick	spoon
+kick	suitcase
+kick	teddy bear
+kick	tennis racket
+kick	vase
+lasso	horse
+lasso	person
+lasso	sheep
+launch	airplane
+launch	cell phone
+launch	frisbee
+launch	sports ball
+lick	apple
+lick	banana
+lick	cake
+lick	carrot
+lick	cat
+lick	dog
+lick	donut
+lick	hot dog
+lick	orange
+lick	pizza
+lick	sandwich
+lick	teddy bear
+lie_on	boat
+lie_on	bus
+lie_on	cat
+lie_on	cell phone
+lie_on	dog
+lie_on	horse
+lie_on	motorcycle
+lie_on	person
+lie_on	skateboard
+lie_on	suitcase
+lie_on	teddy bear
+lie_on	toilet
+lie_on	train
+lie_on	truck
+lift	apple
+lift	backpack
+lift	banana
+lift	baseball bat
+lift	baseball glove
+lift	bicycle
+lift	boat
+lift	book
+lift	bottle
+lift	bowl
+lift	broccoli
+lift	cake
+lift	carrot
+lift	cat
+lift	cell phone
+lift	chair
+lift	clock
+lift	couch
+lift	cup
+lift	dog
+lift	donut
+lift	frisbee
+lift	hair drier
+lift	handbag
+lift	hot dog
+lift	keyboard
+lift	knife
+lift	laptop
+lift	microwave
+lift	motorcycle
+lift	mouse
+lift	orange
+lift	person
+lift	pizza
+lift	potted plant
+lift	remote
+lift	sandwich
+lift	scissors
+lift	skateboard
+lift	skis
+lift	snowboard
+lift	spoon
+lift	sports ball
+lift	suitcase
+lift	surfboard
+lift	teddy bear
+lift	tennis racket
+lift	toaster
+lift	toothbrush
+lift	tv
+lift	umbrella
+lift	vase
+lift	wine glass
+light	cell phone
+light	clock
+light	oven
+light	teddy bear
+light	traffic light
+light	tv
+load	backpack
+load	bicycle
+load	boat
+load	bottle
+load	bowl
+load	cell phone
+load	laptop
+load	motorcycle
+load	remote
+load	skateboard
+load	skis
+load	sports ball
+load	teddy bear
+lose	apple
+lose	backpack
+lose	banana
+lose	baseball bat
+lose	baseball glove
+lose	bicycle
+lose	bird
+lose	boat
+lose	book
+lose	bottle
+lose	bowl
+lose	broccoli
+lose	cake
+lose	car
+lose	carrot
+lose	cat
+lose	cell phone
+lose	clock
+lose	cow
+lose	cup
+lose	dog
+lose	donut
+lose	fork
+lose	frisbee
+lose	hair drier
+lose	handbag
+lose	horse
+lose	hot dog
+lose	keyboard
+lose	kite
+lose	knife
+lose	laptop
+lose	motorcycle
+lose	mouse
+lose	orange
+lose	parking meter
+lose	person
+lose	pizza
+lose	potted plant
+lose	remote
+lose	sandwich
+lose	scissors
+lose	sheep
+lose	skateboard
+lose	skis
+lose	snowboard
+lose	spoon
+lose	sports ball
+lose	suitcase
+lose	surfboard
+lose	teddy bear
+lose	tennis racket
+lose	toaster
+lose	toothbrush
+lose	train
+lose	truck
+lose	tv
+lose	vase
+lose	wine glass
+make	apple
+make	backpack
+make	baseball bat
+make	baseball glove
+make	bed
+make	bench
+make	bicycle
+make	boat
+make	book
+make	bottle
+make	bowl
+make	car
+make	carrot
+make	cell phone
+make	chair
+make	clock
+make	cup
+make	dining table
+make	dog
+make	frisbee
+make	hair drier
+make	handbag
+make	keyboard
+make	kite
+make	knife
+make	laptop
+make	motorcycle
+make	mouse
+make	orange
+make	potted plant
+make	remote
+make	sheep
+make	skateboard
+make	skis
+make	spoon
+make	sports ball
+make	suitcase
+make	teddy bear
+make	tennis racket
+make	toaster
+make	toothbrush
+make	train
+make	truck
+make	tv
+make	umbrella
+milk	horse
+milk	sheep
+move	apple
+move	backpack
+move	banana
+move	baseball bat
+move	baseball glove
+move	bear
+move	bed
+move	bench
+move	bicycle
+move	bird
+move	boat
+move	book
+move	bottle
+move	bowl
+move	broccoli
+move	bus
+move	cake
+move	car
+move	carrot
+move	cat
+move	cell phone
+move	chair
+move	clock
+move	couch
+move	cow
+move	cup
+move	dining table
+move	dog
+move	donut
+move	elephant
+move	fork
+move	frisbee
+move	giraffe
+move	hair drier
+move	handbag
+move	horse
+move	hot dog
+move	keyboard
+move	kite
+move	knife
+move	laptop
+move	microwave
+move	motorcycle
+move	mouse
+move	orange
+move	oven
+move	person
+move	pizza
+move	potted plant
+move	remote
+move	sandwich
+move	scissors
+move	sheep
+move	skateboard
+move	skis
+move	snowboard
+move	spoon
+move	sports ball
+move	suitcase
+move	surfboard
+move	teddy bear
+move	tennis racket
+move	toaster
+move	toilet
+move	toothbrush
+move	train
+move	truck
+move	tv
+move	umbrella
+move	vase
+move	wine glass
+move	zebra
+open	banana
+open	bicycle
+open	boat
+open	bowl
+open	car
+open	cell phone
+open	clock
+open	cup
+open	hair drier
+open	handbag
+open	hot dog
+open	keyboard
+open	motorcycle
+open	parking meter
+open	remote
+open	toaster
+open	truck
+open	tv
+open	vase
+operate	backpack
+operate	bicycle
+operate	boat
+operate	bottle
+operate	bowl
+operate	bus
+operate	car
+operate	cell phone
+operate	chair
+operate	clock
+operate	cup
+operate	dog
+operate	fork
+operate	frisbee
+operate	horse
+operate	keyboard
+operate	kite
+operate	knife
+operate	laptop
+operate	motorcycle
+operate	mouse
+operate	parking meter
+operate	refrigerator
+operate	remote
+operate	scissors
+operate	skateboard
+operate	snowboard
+operate	spoon
+operate	sports ball
+operate	suitcase
+operate	tennis racket
+operate	toilet
+operate	toothbrush
+operate	truck
+operate	tv
+operate	umbrella
+pack	apple
+pack	backpack
+pack	banana
+pack	baseball bat
+pack	baseball glove
+pack	bicycle
+pack	boat
+pack	book
+pack	bottle
+pack	bowl
+pack	broccoli
+pack	cake
+pack	carrot
+pack	cell phone
+pack	chair
+pack	cup
+pack	frisbee
+pack	hair drier
+pack	handbag
+pack	hot dog
+pack	keyboard
+pack	kite
+pack	knife
+pack	laptop
+pack	motorcycle
+pack	mouse
+pack	orange
+pack	pizza
+pack	potted plant
+pack	remote
+pack	sandwich
+pack	scissors
+pack	skateboard
+pack	skis
+pack	snowboard
+pack	spoon
+pack	sports ball
+pack	surfboard
+pack	teddy bear
+pack	tennis racket
+pack	toaster
+pack	toothbrush
+pack	umbrella
+pack	vase
+pack	wine glass
+paint	apple
+paint	backpack
+paint	baseball bat
+paint	baseball glove
+paint	bear
+paint	bed
+paint	bench
+paint	bicycle
+paint	boat
+paint	bottle
+paint	bowl
+paint	bus
+paint	car
+paint	chair
+paint	clock
+paint	couch
+paint	cup
+paint	dining table
+paint	dog
+paint	elephant
+paint	frisbee
+paint	handbag
+paint	horse
+paint	kite
+paint	motorcycle
+paint	person
+paint	refrigerator
+paint	skateboard
+paint	snowboard
+paint	spoon
+paint	sports ball
+paint	surfboard
+paint	teddy bear
+paint	truck
+paint	umbrella
+paint	wine glass
+paint	zebra
+park	boat
+park	bus
+park	skateboard
+park	surfboard
+park	train
+park	truck
+pay	donut
+pay	hot dog
+pay	motorcycle
+pay	pizza
+pay	teddy bear
+pet	mouse
+pet	person
+pet	teddy bear
+pick	backpack
+pick	baseball bat
+pick	baseball glove
+pick	bicycle
+pick	book
+pick	bottle
+pick	bowl
+pick	broccoli
+pick	cake
+pick	carrot
+pick	cat
+pick	cell phone
+pick	chair
+pick	clock
+pick	cup
+pick	dog
+pick	donut
+pick	fork
+pick	frisbee
+pick	hair drier
+pick	handbag
+pick	hot dog
+pick	keyboard
+pick	kite
+pick	knife
+pick	laptop
+pick	motorcycle
+pick	mouse
+pick	pizza
+pick	potted plant
+pick	remote
+pick	sandwich
+pick	scissors
+pick	sheep
+pick	skateboard
+pick	skis
+pick	snowboard
+pick	spoon
+pick	sports ball
+pick	suitcase
+pick	surfboard
+pick	teddy bear
+pick	tennis racket
+pick	toaster
+pick	toothbrush
+pick	umbrella
+pick	vase
+pick	wine glass
+pick_up	apple
+pick_up	backpack
+pick_up	banana
+pick_up	baseball bat
+pick_up	baseball glove
+pick_up	bicycle
+pick_up	book
+pick_up	bottle
+pick_up	bowl
+pick_up	broccoli
+pick_up	carrot
+pick_up	cat
+pick_up	cell phone
+pick_up	chair
+pick_up	clock
+pick_up	cup
+pick_up	dog
+pick_up	fork
+pick_up	frisbee
+pick_up	hair drier
+pick_up	handbag
+pick_up	hot dog
+pick_up	keyboard
+pick_up	kite
+pick_up	knife
+pick_up	laptop
+pick_up	motorcycle
+pick_up	mouse
+pick_up	orange
+pick_up	potted plant
+pick_up	remote
+pick_up	sandwich
+pick_up	scissors
+pick_up	snowboard
+pick_up	spoon
+pick_up	surfboard
+pick_up	teddy bear
+pick_up	tennis racket
+pick_up	toaster
+pick_up	toothbrush
+pick_up	tv
+pick_up	umbrella
+pick_up	vase
+pick_up	wine glass
+point	airplane
+point	apple
+point	backpack
+point	banana
+point	baseball bat
+point	baseball glove
+point	bear
+point	bed
+point	bench
+point	bicycle
+point	bird
+point	boat
+point	book
+point	bottle
+point	bowl
+point	broccoli
+point	bus
+point	cake
+point	car
+point	carrot
+point	cat
+point	cell phone
+point	chair
+point	clock
+point	couch
+point	cow
+point	cup
+point	dining table
+point	dog
+point	donut
+point	elephant
+point	fire hydrant
+point	fork
+point	frisbee
+point	giraffe
+point	handbag
+point	horse
+point	hot dog
+point	keyboard
+point	kite
+point	knife
+point	laptop
+point	microwave
+point	motorcycle
+point	mouse
+point	orange
+point	oven
+point	parking meter
+point	person
+point	pizza
+point	potted plant
+point	refrigerator
+point	sandwich
+point	scissors
+point	sheep
+point	skateboard
+point	snowboard
+point	spoon
+point	sports ball
+point	stop sign
+point	suitcase
+point	teddy bear
+point	tennis racket
+point	toaster
+point	toilet
+point	toothbrush
+point	traffic light
+point	train
+point	truck
+point	tv
+point	umbrella
+point	vase
+point	wine glass
+point	zebra
+pour	bowl
+pour	wine glass
+pull	apple
+pull	backpack
+pull	banana
+pull	baseball bat
+pull	baseball glove
+pull	bed
+pull	bench
+pull	bicycle
+pull	boat
+pull	book
+pull	bottle
+pull	bowl
+pull	cake
+pull	car
+pull	carrot
+pull	cat
+pull	cell phone
+pull	chair
+pull	couch
+pull	cow
+pull	cup
+pull	dog
+pull	donut
+pull	fork
+pull	frisbee
+pull	handbag
+pull	horse
+pull	hot dog
+pull	keyboard
+pull	knife
+pull	laptop
+pull	microwave
+pull	motorcycle
+pull	mouse
+pull	orange
+pull	oven
+pull	parking meter
+pull	person
+pull	pizza
+pull	potted plant
+pull	remote
+pull	sandwich
+pull	scissors
+pull	sheep
+pull	skateboard
+pull	skis
+pull	snowboard
+pull	spoon
+pull	sports ball
+pull	suitcase
+pull	surfboard
+pull	teddy bear
+pull	tennis racket
+pull	toaster
+pull	toothbrush
+pull	truck
+pull	tv
+pull	umbrella
+pull	vase
+pull	wine glass
+push	apple
+push	backpack
+push	banana
+push	baseball bat
+push	baseball glove
+push	bed
+push	bench
+push	boat
+push	book
+push	bottle
+push	bowl
+push	broccoli
+push	bus
+push	car
+push	carrot
+push	cat
+push	cell phone
+push	chair
+push	clock
+push	couch
+push	cup
+push	dog
+push	donut
+push	fork
+push	frisbee
+push	hair drier
+push	handbag
+push	horse
+push	hot dog
+push	keyboard
+push	knife
+push	laptop
+push	microwave
+push	mouse
+push	orange
+push	parking meter
+push	person
+push	pizza
+push	potted plant
+push	refrigerator
+push	remote
+push	sandwich
+push	sheep
+push	skateboard
+push	skis
+push	snowboard
+push	spoon
+push	sports ball
+push	suitcase
+push	surfboard
+push	teddy bear
+push	tennis racket
+push	toaster
+push	toilet
+push	toothbrush
+push	truck
+push	tv
+push	umbrella
+push	vase
+push	wine glass
+race	bicycle
+race	boat
+race	car
+race	cat
+race	dog
+race	frisbee
+race	person
+race	sheep
+race	skateboard
+race	snowboard
+race	sports ball
+race	teddy bear
+race	truck
+read	clock
+read	remote
+read	teddy bear
+read	tv
+release	apple
+release	backpack
+release	banana
+release	baseball bat
+release	bicycle
+release	boat
+release	book
+release	bottle
+release	bowl
+release	cake
+release	car
+release	carrot
+release	cat
+release	cell phone
+release	cow
+release	cup
+release	dog
+release	donut
+release	fork
+release	frisbee
+release	handbag
+release	horse
+release	hot dog
+release	keyboard
+release	kite
+release	knife
+release	laptop
+release	motorcycle
+release	mouse
+release	orange
+release	parking meter
+release	person
+release	potted plant
+release	remote
+release	sandwich
+release	scissors
+release	sheep
+release	skateboard
+release	skis
+release	snowboard
+release	spoon
+release	sports ball
+release	suitcase
+release	surfboard
+release	teddy bear
+release	tennis racket
+release	toothbrush
+release	truck
+release	umbrella
+release	vase
+release	wine glass
+repair	airplane
+repair	backpack
+repair	baseball bat
+repair	baseball glove
+repair	bed
+repair	bench
+repair	bottle
+repair	bowl
+repair	bus
+repair	car
+repair	chair
+repair	couch
+repair	cup
+repair	dining table
+repair	fire hydrant
+repair	fork
+repair	frisbee
+repair	handbag
+repair	horse
+repair	keyboard
+repair	kite
+repair	knife
+repair	microwave
+repair	motorcycle
+repair	potted plant
+repair	refrigerator
+repair	remote
+repair	scissors
+repair	skateboard
+repair	snowboard
+repair	spoon
+repair	sports ball
+repair	stop sign
+repair	suitcase
+repair	surfboard
+repair	teddy bear
+repair	tennis racket
+repair	toothbrush
+repair	vase
+repair	wine glass
+run	bench
+run	cat
+run	couch
+run	cow
+run	frisbee
+run	kite
+run	motorcycle
+run	person
+run	sheep
+run	skateboard
+run	sports ball
+run	teddy bear
+sail	person
+scratch	backpack
+scratch	banana
+scratch	baseball bat
+scratch	baseball glove
+scratch	bear
+scratch	bench
+scratch	bicycle
+scratch	bird
+scratch	book
+scratch	bottle
+scratch	car
+scratch	carrot
+scratch	chair
+scratch	couch
+scratch	cow
+scratch	donut
+scratch	fork
+scratch	frisbee
+scratch	horse
+scratch	hot dog
+scratch	keyboard
+scratch	mouse
+scratch	orange
+scratch	person
+scratch	remote
+scratch	sheep
+scratch	skateboard
+scratch	spoon
+scratch	teddy bear
+scratch	tennis racket
+scratch	vase
+scratch	zebra
+serve	apple
+serve	banana
+serve	bottle
+serve	bowl
+serve	broccoli
+serve	cake
+serve	carrot
+serve	cat
+serve	cell phone
+serve	cup
+serve	dog
+serve	donut
+serve	hot dog
+serve	orange
+serve	person
+serve	pizza
+serve	sandwich
+serve	teddy bear
+serve	wine glass
+set	apple
+set	backpack
+set	banana
+set	baseball bat
+set	baseball glove
+set	bed
+set	bench
+set	bicycle
+set	boat
+set	book
+set	bottle
+set	bowl
+set	broccoli
+set	cake
+set	carrot
+set	cat
+set	cell phone
+set	chair
+set	couch
+set	cup
+set	dining table
+set	dog
+set	donut
+set	fork
+set	frisbee
+set	hair drier
+set	handbag
+set	hot dog
+set	keyboard
+set	kite
+set	knife
+set	laptop
+set	motorcycle
+set	mouse
+set	orange
+set	oven
+set	parking meter
+set	pizza
+set	potted plant
+set	remote
+set	sandwich
+set	scissors
+set	skateboard
+set	skis
+set	snowboard
+set	spoon
+set	sports ball
+set	suitcase
+set	surfboard
+set	teddy bear
+set	tennis racket
+set	toaster
+set	toothbrush
+set	tv
+set	vase
+set	wine glass
+shear	cow
+shear	dog
+shear	horse
+sign	book
+sign	laptop
+sign	parking meter
+sign	stop sign
+sip	bottle
+sip	bowl
+sit_at	bed
+sit_at	bench
+sit_at	boat
+sit_at	bus
+sit_at	cat
+sit_at	cell phone
+sit_at	chair
+sit_at	couch
+sit_at	dog
+sit_at	person
+sit_at	teddy bear
+sit_at	toilet
+sit_on	cat
+sit_on	cell phone
+sit_on	dining table
+sit_on	dog
+sit_on	elephant
+sit_on	horse
+sit_on	person
+sit_on	suitcase
+sit_on	teddy bear
+slide	apple
+slide	backpack
+slide	banana
+slide	baseball bat
+slide	bed
+slide	bench
+slide	boat
+slide	book
+slide	bottle
+slide	bowl
+slide	cake
+slide	carrot
+slide	cat
+slide	cell phone
+slide	chair
+slide	couch
+slide	cup
+slide	dog
+slide	donut
+slide	fork
+slide	frisbee
+slide	handbag
+slide	hot dog
+slide	keyboard
+slide	knife
+slide	laptop
+slide	mouse
+slide	orange
+slide	potted plant
+slide	remote
+slide	sandwich
+slide	skateboard
+slide	skis
+slide	snowboard
+slide	spoon
+slide	sports ball
+slide	suitcase
+slide	teddy bear
+slide	tennis racket
+slide	toothbrush
+slide	umbrella
+slide	vase
+slide	wine glass
+smell	backpack
+smell	baseball glove
+smell	bear
+smell	bird
+smell	book
+smell	bottle
+smell	bowl
+smell	cake
+smell	cat
+smell	cow
+smell	dog
+smell	elephant
+smell	horse
+smell	hot dog
+smell	orange
+smell	person
+smell	potted plant
+smell	sandwich
+smell	sheep
+smell	sports ball
+smell	teddy bear
+spin	apple
+spin	baseball bat
+spin	bicycle
+spin	bottle
+spin	bowl
+spin	cat
+spin	cell phone
+spin	chair
+spin	cup
+spin	dog
+spin	donut
+spin	kite
+spin	motorcycle
+spin	orange
+spin	person
+spin	skateboard
+spin	snowboard
+spin	suitcase
+spin	teddy bear
+spin	tennis racket
+spin	toothbrush
+spin	vase
+spin	wine glass
+squeeze	apple
+squeeze	backpack
+squeeze	banana
+squeeze	bottle
+squeeze	broccoli
+squeeze	cake
+squeeze	carrot
+squeeze	cell phone
+squeeze	cup
+squeeze	donut
+squeeze	handbag
+squeeze	hot dog
+squeeze	pizza
+squeeze	remote
+squeeze	sandwich
+squeeze	sports ball
+squeeze	suitcase
+squeeze	teddy bear
+stab	teddy bear
+stand_on	bed
+stand_on	bench
+stand_on	bus
+stand_on	couch
+stand_on	elephant
+stand_on	horse
+stand_on	motorcycle
+stand_on	person
+stand_on	suitcase
+stand_on	teddy bear
+stand_on	tennis racket
+stand_on	train
+stand_on	truck
+stand_under	bed
+stand_under	bench
+stand_under	car
+stand_under	couch
+stand_under	dining table
+stand_under	motorcycle
+stand_under	potted plant
+stand_under	refrigerator
+stand_under	teddy bear
+stand_under	truck
+stick	cake
+stick	carrot
+stick	cell phone
+stick	refrigerator
+stick	remote
+stick	spoon
+stir	banana
+stir	cake
+stir	cup
+stir	fork
+stir	hot dog
+stir	spoon
+stop_at	parking meter
+straddle	banana
+straddle	baseball bat
+straddle	bed
+straddle	bench
+straddle	boat
+straddle	book
+straddle	cat
+straddle	cell phone
+straddle	chair
+straddle	couch
+straddle	donut
+straddle	fork
+straddle	frisbee
+straddle	hot dog
+straddle	person
+straddle	skateboard
+straddle	sports ball
+straddle	suitcase
+straddle	teddy bear
+straddle	toilet
+straddle	truck
+swing	boat
+swing	cat
+swing	dog
+swing	frisbee
+swing	handbag
+swing	horse
+swing	kite
+swing	person
+swing	sports ball
+swing	teddy bear
+swing	umbrella
+tag	apple
+tag	backpack
+tag	baseball glove
+tag	bicycle
+tag	book
+tag	bottle
+tag	bowl
+tag	car
+tag	cat
+tag	cell phone
+tag	chair
+tag	cup
+tag	dog
+tag	fire hydrant
+tag	frisbee
+tag	handbag
+tag	horse
+tag	hot dog
+tag	laptop
+tag	microwave
+tag	motorcycle
+tag	parking meter
+tag	refrigerator
+tag	remote
+tag	skateboard
+tag	sports ball
+tag	suitcase
+tag	teddy bear
+tag	truck
+tag	tv
+tag	umbrella
+tag	vase
+talk_on	laptop
+talk_on	person
+talk_on	teddy bear
+teach	cat
+teach	dog
+teach	elephant
+teach	horse
+teach	teddy bear
+text_on	keyboard
+text_on	laptop
+text_on	teddy bear
+throw	apple
+throw	backpack
+throw	banana
+throw	boat
+throw	book
+throw	bottle
+throw	bowl
+throw	broccoli
+throw	cake
+throw	carrot
+throw	cell phone
+throw	chair
+throw	cup
+throw	dog
+throw	donut
+throw	fork
+throw	handbag
+throw	hot dog
+throw	keyboard
+throw	kite
+throw	orange
+throw	pizza
+throw	potted plant
+throw	remote
+throw	sandwich
+throw	skateboard
+throw	skis
+throw	spoon
+throw	suitcase
+throw	surfboard
+throw	teddy bear
+throw	tennis racket
+throw	umbrella
+throw	vase
+throw	wine glass
+tie	backpack
+tie	cat
+tie	dog
+tie	handbag
+tie	horse
+tie	suitcase
+tie	teddy bear
+toast	banana
+toast	hot dog
+toast	sandwich
+toast	toaster
+train	baseball bat
+train	bear
+train	bicycle
+train	bird
+train	cat
+train	cow
+train	elephant
+train	frisbee
+train	motorcycle
+train	person
+train	skateboard
+train	skis
+train	snowboard
+train	sports ball
+train	teddy bear
+train	truck
+turn	apple
+turn	backpack
+turn	banana
+turn	baseball bat
+turn	bench
+turn	bicycle
+turn	boat
+turn	book
+turn	bottle
+turn	bowl
+turn	bus
+turn	cake
+turn	car
+turn	carrot
+turn	cat
+turn	cell phone
+turn	chair
+turn	clock
+turn	cup
+turn	dog
+turn	fork
+turn	frisbee
+turn	hair drier
+turn	handbag
+turn	keyboard
+turn	knife
+turn	laptop
+turn	microwave
+turn	mouse
+turn	oven
+turn	parking meter
+turn	pizza
+turn	potted plant
+turn	refrigerator
+turn	remote
+turn	skateboard
+turn	snowboard
+turn	spoon
+turn	sports ball
+turn	suitcase
+turn	teddy bear
+turn	tennis racket
+turn	toaster
+turn	traffic light
+turn	truck
+turn	tv
+turn	umbrella
+turn	vase
+turn	wine glass
+type_on	cell phone
+walk	bear
+walk	bench
+walk	bottle
+walk	bowl
+walk	cat
+walk	frisbee
+walk	hot dog
+walk	kite
+walk	person
+walk	potted plant
+walk	skateboard
+walk	sports ball
+walk	suitcase
+walk	teddy bear
+walk	train
+walk	truck
+wash	backpack
+wash	banana
+wash	baseball bat
+wash	baseball glove
+wash	bench
+wash	bottle
+wash	cell phone
+wash	chair
+wash	couch
+wash	cow
+wash	dining table
+wash	donut
+wash	frisbee
+wash	handbag
+wash	hot dog
+wash	keyboard
+wash	kite
+wash	microwave
+wash	mouse
+wash	oven
+wash	person
+wash	pizza
+wash	potted plant
+wash	refrigerator
+wash	remote
+wash	sandwich
+wash	scissors
+wash	skateboard
+wash	skis
+wash	snowboard
+wash	sports ball
+wash	suitcase
+wash	teddy bear
+wash	tennis racket
+wash	toaster
+wash	umbrella
+wash	vase
+watch	airplane
+watch	bicycle
+watch	boat
+watch	bus
+watch	car
+watch	cat
+watch	cell phone
+watch	clock
+watch	cow
+watch	dog
+watch	frisbee
+watch	horse
+watch	hot dog
+watch	kite
+watch	laptop
+watch	motorcycle
+watch	person
+watch	remote
+watch	sheep
+watch	teddy bear
+watch	train
+watch	truck
+wave	bird
+wave	cat
+wave	dog
+wave	frisbee
+wave	motorcycle
+wave	person
+wave	teddy bear
+wear	clock
+wear	handbag
+wear	teddy bear
+zip	backpack
+zip	handbag

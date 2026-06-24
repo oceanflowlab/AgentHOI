@@ -1,0 +1,41 @@
+You are a professional image analyst. I will provide an image with human-object pairs(HOPs), OC and IC list.
+
+HOP Format:
+-OC:Object category
+-IC:The interaction class between the human and the object
+-HD:Human description
+-OD:Object description
+
+The HOPs of image may have the following problems:
+-Some OC in the HOPs may not appear in the image.
+-The HOPs in image may incomplete
+
+If person interacts with object B utilizing object A in interaction C, So there are two HOPs here(The IC between both HOPs are C): person with object A and person with object B. For example, person attaching letter using glue, so the HOPs:
+OC:letter;IC:attaching;HD:xxx;OD:OD of letter
+OC:glue;IC:attaching;HD:xxx;OD:OD of glue
+
+
+Task:
+Your goal is to analyze the image,delete(not modify) any HOPs that involve OC not appear in the image,and supplement the missing HOPs by identifying OC in OC list. Finally provide the final HOPs.
+
+Must meet the following criteria:
+-Traverse the OC list one by one to check if such OC clearly exist in the image. If so,add its HOP.
+-OC and IC should be strictly selected from the OC and IC lists. If an exact match is unavailable, select the closest term.
+-IC refers to the action that a person does for another person or an object,and it can also be the action that a person takes using this object.For example,<person,attacking,person> and <person,attacking,knife>.
+-OC is a tool or object, but can also be person, such as truck bed.
+
+-HD:Describe unique features of each person involved(e.g.,clothes,accessories) briefly.
+-OD:Similarly,describe unique features of each object(e.g.,color,shape) briefly.
+-If there are multiple objects or people that are similar and indistinguishable, positional words(left, right) can also be used to describe them.
+-Each HOP describe a person and an object,or multiple people and the same kind of objects (If multiple people perform the same IC on an object or same kind of objects, it should be grouped into a single HOP).
+-Your response must follow the exact format in the example and no explanation
+
+
+Example:
+-Input:
+    [Image]
+    HOPs:{OC:envelope;IC:putting;HD:person in blue shirt;OD:white envelope \n OC:trail bike; IC:putting;HD:person in blue shirt;OD:gray trail bike}
+
+-Your Output:
+    OC:envelope;IC:putting;HD:person in blue shirt;OD:white envelope
+    OC:mailbox;IC:putting;HD:person in blue shirt;OD:black mailbox
