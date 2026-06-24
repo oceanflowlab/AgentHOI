@@ -1,5 +1,12 @@
 # [ECCV2026] AgentHOI
 
+
+<!-- Replace the # targets below when the public resources are available. -->
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=red)](#)
+[![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b.svg)](#)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=githubpages&logoColor=blue)](#)
+
+
 This repository is the official PyTorch implementation of the paper "AgentHOI: Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild".
 
 AgentHOI is a training-free, agentic framework for human-object interaction (HOI) detection in the wild. It uses multimodal large language models for interaction reasoning and GroundingDINO for human-object grounding.
