@@ -13,11 +13,19 @@ venv/
 env/
 
 # AgentHOI outputs
-hico_pipe/output/
-swig_pipe/output/
+hico_pipe/output/*
+swig_pipe/output/*
 vcoco_pipe/output/
 preds.pkl
 *.pkl
+
+# Released model predictions
+!hico_pipe/output/4o_logit/
+hico_pipe/output/4o_logit/*
+!hico_pipe/output/4o_logit/4o_box.json
+!swig_pipe/output/swig/
+swig_pipe/output/swig/*
+!swig_pipe/output/swig/4o_box.json
 
 # Datasets and model weights
 data/hico_20160224_det/

@@ -74,12 +74,21 @@ export AGENTHOI_MODEL_NAME=4o
 
 For OpenAI-compatible local or third-party endpoints, set `OPENAI_API_BASE_URL` and `AGENTHOI_MODEL` accordingly.
 
+## Precomputed Predictions
+
+We provide the released model predictions used for evaluation:
+
+```text
+hico_pipe/output/4o_logit/4o_box.json
+swig_pipe/output/swig/4o_box.json
+```
+
 ## Run on HICO-DET
 
 ```bash
 bash hico_pipe/pipe.sh
 python hico_pipe/outbox.py
-python hoi_metirc.py --dataset_file hico --input_file hico_pipe/output/4o/4o_box.json
+python hoi_metirc.py --dataset_file hico --input_file hico_pipe/output/4o_logit/4o_box.json
 ```
 
 To use another output directory:
@@ -94,7 +103,7 @@ python hoi_metirc.py --dataset_file hico --input_file hico_pipe/output/my_run/4o
 ```bash
 bash swig_pipe/pipe.sh
 python swig_pipe/outbox.py
-python swig_metirc.py --dataset_file swig --input_file swig_pipe/output/4o/4o_box.json
+python swig_metirc.py --dataset_file swig --input_file swig_pipe/output/swig/4o_box.json
 ```
 
 To use another output directory:
@@ -104,8 +113,16 @@ export SWIG_OUTPUT_DIR=swig_pipe/output/my_run
 python swig_metirc.py --dataset_file swig --input_file swig_pipe/output/my_run/4o_box.json
 ```
 
-## Notes
 
-- `hico_pipe/output/`, `swig_pipe/output/`, model checkpoints, dataset images, local BERT weights, caches, and compiled files are ignored by git.
-- The pipeline scripts intentionally call the LLM stages multiple times in `pipe.sh` to retry failed or incomplete items.
-- The file names `hoi_metirc.py` and `swig_metirc.py` are kept for compatibility with the original code release.
+## Citation
+
+If you find this project useful, please cite:
+
+```bibtex
+@inproceedings{lei2026unleashing,
+  title={Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild},
+  author={Lei, Ting and Liu, Jialin and Xu, Zhu and Peng, Yuxin and Liu, Yang},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2026}
+}
+```
