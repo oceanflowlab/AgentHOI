@@ -3,7 +3,7 @@
 
 <!-- Replace the # targets below when the public resources are available. -->
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=red)](#)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=githubpages&logoColor=blue)](#)
+[![Project Page](https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=githubpages&logoColor=blue)](https://ltttpku.github.io/AgentHOI-Page/)
 
 
 This repository is the official PyTorch implementation of the paper "AgentHOI: Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild".
