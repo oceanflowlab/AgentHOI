@@ -2,7 +2,7 @@
 
 
 <!-- Replace the # targets below when the public resources are available. -->
-[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=red)](#)
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=red)](https://arxiv.org/pdf/2607.13881)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=plastic&logo=githubpages&logoColor=blue)](https://ltttpku.github.io/AgentHOI-Page/)
 
 
